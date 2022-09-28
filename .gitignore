@@ -1,0 +1,4 @@
+package-lock.json
+assets/min/
+node_modules/
+mix-manifest.json
